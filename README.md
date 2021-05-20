@@ -1,4 +1,4 @@
-# Moved to more general [repository](https://github.com/augustin64/lepilote.git)
+# Moved to more general [repository](https://github.com/augustin64/lepilote)
 ## rtm-api-marseille
 API Python non officielle pour suivre les transports en commun Marseillais [Régie des Transports Métropolitains]
 
